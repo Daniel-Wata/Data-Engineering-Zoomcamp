@@ -14,7 +14,7 @@ and then in the bash opened I ran
 pip --version
 ```
 
-which gave me the answers
+which gave me the answer 24.3.1
 
 ## 2. Understanding Docker networking and docker-compose
 
